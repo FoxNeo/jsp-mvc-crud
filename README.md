@@ -1,6 +1,6 @@
 # jsp-mvc-crud
 
-This is a simple CRUD application of JavaEE and Servlets. The database is MySQL, before deploying in a Tomcat you must create a database and run both SQL Scrits (WebContent/scripts).
+This is a simple CRUD application of JavaEE and Servlets. The database is MySQL, before deploying in a Tomcat you must create a database and run both SQL scripts (WebContent/scripts).
 
 
 <h1 align="center">
